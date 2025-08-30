@@ -46,29 +46,26 @@ Welcome to **Pokemon-Duel-Bot**, a powerful Discord bot that lets you challenge 
    git clone https://github.com/yourusername/Pokemon-Duel-Bot.git
    cd Pokemon-Duel-Bot
 
-### ** Commands **
-# Duel Commands:
+# Commands  
+   # Duel Commands:
 
-   !duel @opponent
+      !duel @opponent
 
-   !tripleduel @opponent1 @opponent2
+      !tripleduel @opponent1 @opponent2
 
-# History & Stats:
+   # History & Stats:
 
-   !history @player
+      !history @player
 
-   !stats @player
+      !stats @player
 
-# Miscellaneous:
+   # Miscellaneous:
 
-   !leaderboard
+      !leaderboard
 
-   !forms (Show available Pokémon forms)
-
-
+      !forms (Show available Pokémon forms)
 
 
+# LICENSE
 
-    License
-
-This project is closed-source and private. You are not permitted to share, redistribute, or modify this code without explicit permission.
+**This project is closed-source and private. You are not permitted to share, redistribute, or modify this code without explicit permission.**
