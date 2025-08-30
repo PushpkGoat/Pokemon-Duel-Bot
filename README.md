@@ -2,6 +2,8 @@
 
 Welcome to **Pokemon-Duel-Bot**, a powerful Discord bot that lets you challenge your friends to **epic Pokémon duels**! Battle with your favorite Pokémon and show off your strategic prowess. Whether you're a **new trainer** or an **experienced battler**, this bot offers something for everyone!
 
+**(STILL IN DEVELOPMENT / BETA.Expect some issues.Open for Suggestions.)**
+
 ---
 
 ##  **Features**
