@@ -17,16 +17,14 @@ Welcome to **Pokemon-Duel-Bot**, a powerful Discord bot that lets you challenge 
 
 ##  **Getting Started**
 
-1. **Invite the Bot**  
-   Add the bot to your Discord server and start dueling today! Simply click [here](#) to invite.
+1. **Get the Files**  
+   Add your Bot-Token,Add the Bot to your Server.
+   Run the code.
 
-2. **Commands**  
+3. **Commands**  
    Use the following commands to duel and manage your stats:
    
-   - **Start a Duel**: `!duel @opponent`  
-   - **Start a Triple Duel**: `!tripleduel @opponent1 @opponent2`  
-   - **View Duel History**: `!history @player`  
-   - **View Player Stats**: `!stats @player`
+   - **How To** - `!howto 
 
 ---
 
@@ -49,13 +47,13 @@ Welcome to **Pokemon-Duel-Bot**, a powerful Discord bot that lets you challenge 
 # Commands  
    # Duel Commands:
 
-      !duel @opponent
+      !duel @opponent [rounds] [modes]
 
-      !tripleduel @opponent1 @opponent2
+      !tripleduel @opponent1 @opponent2 [rounds] [modes]
 
    # History & Stats:
 
-      !history @player
+      !history @player 
 
       !stats @player
 
