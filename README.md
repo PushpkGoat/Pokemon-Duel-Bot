@@ -24,7 +24,7 @@ Welcome to **Pokemon-Duel-Bot**, a powerful Discord bot that lets you challenge 
 3. **Commands**  
    Use the following commands to duel and manage your stats:
    
-   - **How To** - `!howto 
+   - **How To Use** - `!howto `
 
 ---
 
