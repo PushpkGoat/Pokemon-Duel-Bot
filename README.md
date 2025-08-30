@@ -1,53 +1,74 @@
-Welcome to **Pokemon-Duel-Bot**, a powerful and fun Discord bot that brings the excitement of Pokémon battles to your server! This bot allows players to duel against each other in thrilling Pokémon matches. Battle using your favorite Pokémon and show off your strategic skills. Whether you're a beginner or a seasoned Pokémon master, this bot offers a great experience for all types of players.
+# **Pokemon-Duel-Bot** 
+
+Welcome to **Pokemon-Duel-Bot**, a powerful Discord bot that lets you challenge your friends to **epic Pokémon duels**! Battle with your favorite Pokémon and show off your strategic prowess. Whether you're a **new trainer** or an **experienced battler**, this bot offers something for everyone!
 
 ---
 
-## Features
+##  **Features**
 
- **Pokemon Duels**  
-- Challenge friends or foes to 1v1 or Triple Duels!  
-- The bot calculates battle scores based on type advantages, base stats, and IVs for a fair fight.  
-- Multiple duel types available: Normal, Legendary, and Evolution-based duels.
-
-⚔️ **Real-Time Battle Mechanics**  
-- Pokemon battles with a dynamic scoring system.  
-- Battle results are calculated with detailed effectiveness based on the Pokémon type chart.  
-- High-quality images of Pokémon with their stats and types.
-
- **Duel History & Leaderboards**  
-- Keep track of your battle history and stats.  
-- Duel summaries, win rates, and detailed player rankings.
-
- **Customizable Duel Settings**  
-- Choose duel settings: number of rounds, duel types, and more.  
-- Display cool and interactive battle images and summaries.
+- **Pokemon Duels**: Duel friends or foes in **1v1** or **Triple Duels**!  
+- **Real-time Battle Mechanics**: The bot calculates battle scores based on **type advantages**, **IVs**, and **base stats** to ensure a fair fight.  
+- **Duel Types**: Enjoy a variety of duels including **Normal**, **Legendary**, and **Evolution-based** matches.  
+- **Duel History & Leaderboards**: Keep track of your **win/loss record** and climb the **leaderboards**.  
+- **Customizable Duel Settings**: Adjust duel parameters like **number of rounds** and **duel types** for a unique experience.  
+- **High-quality Pokémon Images**: Each Pokémon gets a custom image with their stats and types!
 
 ---
 
-## Getting Started
+##  **Getting Started**
 
-1. **Invite the bot to your Discord server**:
-   - Use the provided invite link to add the bot to your server.
-  
-2. **Use Commands**:
+1. **Invite the Bot**  
+   Add the bot to your Discord server and start dueling today! Simply click [here](#) to invite.
+
+2. **Commands**  
+   Use the following commands to duel and manage your stats:
+   
    - **Start a Duel**: `!duel @opponent`  
    - **Start a Triple Duel**: `!tripleduel @opponent1 @opponent2`  
-   - **View Duel History**: `!history`  
+   - **View Duel History**: `!history @player`  
    - **View Player Stats**: `!stats @player`
 
 ---
 
-## Setup
+## ⚙️ **Setup**
 
-### Prerequisites
+### **Prerequisites**
 
-- **Python 3.8+**
-- **Discord.py** - A library to interact with Discord API.
-- **Pillow** - For image processing (used for generating Pokémon images).
+- Python 3.8+  
+- `discord.py` - For interacting with Discord's API  
+- `Pillow` - For generating Pokémon images
 
-### Installation
+### **Installation Steps**
 
-1. Clone the repository:
+1. **Clone the Repository**  
+   Clone the repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/Pokemon-Duel-Bot.git
    cd Pokemon-Duel-Bot
+
+### ** Commands **
+# Duel Commands:
+
+   !duel @opponent
+
+   !tripleduel @opponent1 @opponent2
+
+# History & Stats:
+
+   !history @player
+
+   !stats @player
+
+# Miscellaneous:
+
+   !leaderboard
+
+   !forms (Show available Pokémon forms)
+
+
+
+
+
+    License
+
+This project is closed-source and private. You are not permitted to share, redistribute, or modify this code without explicit permission.
