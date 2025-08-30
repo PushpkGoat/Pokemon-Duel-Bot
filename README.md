@@ -59,9 +59,9 @@ Welcome to **Pokemon-Duel-Bot**, a powerful Discord bot that lets you challenge 
 
    # Miscellaneous:
 
-      !leaderboard
+      !leaderboard (Not working yet)
 
-      !forms (Show available Pokémon forms)
+      !forms (Show available Pokémon forms) (Doesnt work either)
 
 
 # LICENSE
